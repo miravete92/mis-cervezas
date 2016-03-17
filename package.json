@@ -1,0 +1,26 @@
+{
+  "name": "mis-cervezas-miravete92",
+  "version": "1.0.0",
+  "description": "Lubreria para consultar cervezas",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miravete92/mis-cervezas.git"
+  },
+  "keywords": [
+    "cerveza",
+    "beer"
+  ],
+  "author": "miravete92 <miravete92@hotmail.com> (http://miravete92.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miravete92/mis-cervezas/issues"
+  },
+  "homepage": "https://github.com/miravete92/mis-cervezas#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
